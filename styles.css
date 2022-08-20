@@ -12,8 +12,6 @@
 }
 .SpaceX {
   align-items: center;
-  height: 30px;
-  padding: 0;
 }
 .text {
   color: #b78d98;
@@ -27,7 +25,8 @@
   text-shadow: 2px 0px rgb(226, 223, 223);
   font-family: "Montserrat", sans-serif;
   font-family: "Orbitron", sans-serif;
-  padding: 40px 0 40px;
+  padding: 100px 0 100px;
+  image-orientation: center;
 }
 .terms {
   font-family: "Orbitron", sans-serif;

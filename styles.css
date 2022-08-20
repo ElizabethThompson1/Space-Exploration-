@@ -1,0 +1,36 @@
+.body {
+  margin: 0;
+}
+.btn {
+  border-radius: 1px;
+  padding: 3px 10px;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Orbitron", sans-serif;
+}
+.cta {
+  border-bottom: 4px solid white;
+}
+.SpaceX {
+  align-items: center;
+  height: 30px;
+  padding: 0;
+}
+.text {
+  color: #b78d98;
+}
+.title {
+  background-image: url("images/astronaut-space.gif");
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  text-shadow: 2px 0px rgb(226, 223, 223);
+  font-family: "Montserrat", sans-serif;
+  font-family: "Orbitron", sans-serif;
+  padding: 40px 0 40px;
+}
+.terms {
+  font-family: "Orbitron", sans-serif;
+  color: #b78d98;
+  text-align: center;
+}
